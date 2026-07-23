@@ -28,11 +28,11 @@
 
 ## f. Screenshots of the App in Action
 
-1. **App Interface & Sidebar Configuration:**
    ![App Interface](placeholder-1.png)
-2. **Input Text & Generation Area:**
-   ![Input and Generation](placeholder-2.png)
-3. **Generated Quiz and Flashcards Results:**
+1. **Input Text & Generation Area:**
+   ![Input and Generation]<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/978475c1-d80c-4e5a-8db2-ea144e4b9533" />
+
+2. **Generated Quiz and Flashcards Results:**
    ![Quiz Results] <img width="626" height="302" alt="03 Screenshot 2026-07-23 120358" src="https://github.com/user-attachments/assets/d2177ddc-f8c0-4af7-b1dd-989f6d482017" />
 
    
