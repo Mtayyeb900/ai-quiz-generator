@@ -41,7 +41,7 @@ if st.button("Generate Quiz"):
     try:
       # Configure Gemini API
       genai.configure(api_key=api_key)
-      model = genai.GenerativeModel("gemini-2.5-flash")
+      model = genai.GenerativeModel("gemini-1.5-flash")
 
       prompt = f"""
             Based on the following text, generate a practice quiz with {num_questions} multiple-choice questions (with 4 options each and the correct answer indicated) and 5 flashcards with key concepts and definitions.
